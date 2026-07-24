@@ -2,7 +2,7 @@ import sys
 
 
 def greet(name: str) -> str:
-    return f"Hello, {name}! Welcome to the projet."
+    return f"Hello, {name}! Welcome to the project."
 
 
 if __name__ == "__main__":
